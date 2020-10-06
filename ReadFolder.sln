@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ReadFolder2", "ReadFolder\ReadFolder2.vbproj", "{BACC77E4-70E9-4874-9CE8-3A1491DA66FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BACC77E4-70E9-4874-9CE8-3A1491DA66FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACC77E4-70E9-4874-9CE8-3A1491DA66FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACC77E4-70E9-4874-9CE8-3A1491DA66FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACC77E4-70E9-4874-9CE8-3A1491DA66FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52AE3457-CC88-4E50-A193-3BAA1B81F224}
+	EndGlobalSection
+EndGlobal
